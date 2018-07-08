@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SwipeableTabs</string>
+    <string name="fragment_1">FRAGMENT 1</string>
+    <string name="fragment_2">FRAGMENT 2</string>
+    <string name="fragment_3">FRAGMENT 3</string>
+    <string name="fragment_4">FRAGMENT 4</string>
 </resources>
